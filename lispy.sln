@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lispy", "lispy\lispy.csproj", "{8E2F6B63-254B-4836-81B7-4A7E0BE0AD17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lispy.tests", "lispy.tests\lispy.tests.csproj", "{252D8C46-1A78-4080-994F-DD8F224E3971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E2F6B63-254B-4836-81B7-4A7E0BE0AD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E2F6B63-254B-4836-81B7-4A7E0BE0AD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E2F6B63-254B-4836-81B7-4A7E0BE0AD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E2F6B63-254B-4836-81B7-4A7E0BE0AD17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252D8C46-1A78-4080-994F-DD8F224E3971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252D8C46-1A78-4080-994F-DD8F224E3971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252D8C46-1A78-4080-994F-DD8F224E3971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252D8C46-1A78-4080-994F-DD8F224E3971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
